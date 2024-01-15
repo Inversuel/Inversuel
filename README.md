@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Inversuel
+- 👋 Hi, I’m Karol Maj
 - 👀 I’m interested in building awsome web Apps using JS
-- 🌱 I’m currently learning React.js and Next.js with fireship.io
 - 📫 To reach me email at karolmajit@gmail.com
 
 <!---
